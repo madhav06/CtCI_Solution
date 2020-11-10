@@ -1,2 +1,7 @@
-# CtCI_Solution
-Python Solutions to Cracking the Coding Interview, 6th Edition
+# Python Solutions to Cracking the Coding Interview, 6th Edition
+This is a Python solutions for the book Cracking the Coding Interview, 6th Edition by Gayle Laakmann McDowell.
+
+## How to use?
+To run the programs, just use the python ChapterX/filename.py command.
+
+The test cases are included in the solution files.
